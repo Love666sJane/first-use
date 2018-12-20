@@ -1,0 +1,6 @@
+#include <iostream>
+using namestd;
+int main(){
+cout<<"hello github"<<endl;
+return 0;
+}
